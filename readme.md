@@ -46,11 +46,11 @@ Then verify that the installation completed successfully:
 
 Simply download the program binary from the `bin` directory and run it with the following parameters:
 
-`./getcourse-video-downloader <url> <file>`, where:
+`./getcourse-video-downloader <playlist_url> <output_file>`, where:
 
-`url` — link to HLS video stream playlist
+`playlist_url` — link to HLS video stream playlist
 
-`file` — file name where the final video should be saved (video.mp4)
+`output_file` — file name where the final video should be saved (video.mp4)
 
 ## Thanks to
 
