@@ -52,6 +52,10 @@ Simply download the program binary from the `bin` directory and run it with the 
 
 `output_file` — file name where the final video should be saved (video.mp4)
 
+### – If you're a dev
+
+You know what to do.
+
 ## Thanks to
 
 The general logic is inspired by [mikhailnov](https://github.com/mikhailnov/getcourse-video-downloader), but his solution at the moment of publishing this readme has a significant problem with sound in clips after assembling them (obvious clicks at the beginning of each segment of the HLS video stream).
